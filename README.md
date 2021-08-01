@@ -1965,8 +1965,8 @@ Mac OS X 10.3 | Panther       | n/a
 Mac OS X 10.4 | Tiger         | n/a
 Mac OS X 10.5 | Leopard       | n/a
 Mac OS X 10.6 | Snow Leopard  | n/a
-Mac OS X 10.7 | Lion          | n/a
-OS X 10.8     | Mountain Lion | n/a
+Mac OS X 10.7 | Lion          | [Direct Download](https://updates.cdn-apple.com/2021/macos/041-7683-20210614-E610947E-C7CE-46EB-8860-D26D71F0D3EA/InstallMacOSX.dmg)
+OS X 10.8     | Mountain Lion | [Direct Download](https://updates.cdn-apple.com/2021/macos/031-0627-20210614-90D11F33-1A65-42DD-BBEA-E1D9F43A6B3F/InstallMacOSX.dmg)
 OS X 10.9     | Mavericks     | n/a
 OS X 10.10    | Yosemite      | [Direct Download](http://updates-http.cdn-apple.com/2019/cert/061-41343-20191023-02465f92-3ab5-4c92-bfe2-b725447a070d/InstallMacOSX.dmg)
 OS X 10.11    | El Capitan    | [Direct Download](http://updates-http.cdn-apple.com/2019/cert/061-41424-20191024-218af9ec-cf50-4516-9011-228c78eda3d2/InstallMacOSX.dmg)
@@ -1974,6 +1974,7 @@ macOS 10.12   | Sierra        | [Direct Download](http://updates-http.cdn-apple.
 macOS 10.13   | High Sierra   | [App Store](https://apps.apple.com/de/app/macos-high-sierra/id1246284741)
 macOS 10.14   | Mojave        | [App Store](https://apps.apple.com/de/app/macos-mojave/id1398502828)
 macOS 10.15   | Catalina      | [App Store](https://apps.apple.com/de/app/macos-catalina/id1466841314)
+macOS 11      | Big Sur       | [App Store](https://apps.apple.com/de/app/macos-big-sur/id1526878132)
 
 ### Kernel Extensions
 
